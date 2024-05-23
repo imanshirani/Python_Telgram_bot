@@ -1,4 +1,4 @@
-# Python Telegram bot
+# Zip File Sender with Python to Telegram bot
 
 Steps to Create a Telegram Bot and Get the Bot Token
 
